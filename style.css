@@ -1,0 +1,68 @@
+.background {
+
+    background-image: url(img/Nace.jpg);
+    background-size: cover;
+    margin:auto;
+    background-position: center;
+    background-size:contain;
+    background-repeat: no-repeat;
+}
+
+
+.Header {
+    background-color: rgb(155, 235, 239);
+    color:blue;
+    font-size:25px;
+    text-align: center;
+    background-repeat:no-repeat;
+    padding: 5px 0px;
+    border: 3px solid rgb(242, 150, 22);
+}
+
+h2{
+    color:rgb(242, 150, 22);
+}
+
+
+
+h1{
+    font-family: 'Bungee Spice', cursive;
+}
+.main-header{
+    color:black;
+}
+
+
+
+#no{
+    font-size:25
+}
+
+.Mary {
+    font-family: 'Rubik Dirt', cursive;
+    text-align: center;
+    margin-top: 20;
+    margin-left:20;
+    margin-right:20px;
+    border: 15px solid rgb(85, 254, 6);
+    padding: 20px;
+}
+.Boise {
+    font-family: 'Rubik Dirt', cursive;
+    text-align: center;
+    margin-top: 20;
+    margin-left:20;
+    margin-right:20px;
+    border: 15px solid rgb(85, 254, 6);
+    padding: 20px;
+}
+
+.Illinois {
+    font-family: 'Rubik Dirt', cursive;
+    text-align: center;
+    margin-top: 20;
+    margin-left:20;
+    margin-right:20px;
+    border: 15px solid rgb(85, 254, 6);
+    padding: 20px;
+}
