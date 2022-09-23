@@ -41,18 +41,18 @@ h1{
 .Mary {
     font-family: 'Rubik Dirt', cursive;
     text-align: center;
-    margin-top: 20;
-    margin-left:20;
-    margin-right:20px;
+    margin-top:auto ;
+    margin-left:auto;
+    margin-right:auto;
     border: 15px solid rgb(85, 254, 6);
     padding: 20px;
 }
 .Boise {
     font-family: 'Rubik Dirt', cursive;
     text-align: center;
-    margin-top: 20;
-    margin-left:20;
-    margin-right:20px;
+    margin-top: auto;
+    margin-left:auto;
+    margin-right:auto;
     border: 15px solid rgb(85, 254, 6);
     padding: 20px;
 }
@@ -60,9 +60,9 @@ h1{
 .Illinois {
     font-family: 'Rubik Dirt', cursive;
     text-align: center;
-    margin-top: 20;
-    margin-left:20;
-    margin-right:20px;
+    margin-top: auto;
+    margin-left:auto;
+    margin-right:auto;
     border: 15px solid rgb(85, 254, 6);
     padding: 20px;
 }
